@@ -8,5 +8,6 @@ int main() {
   printf("Algoritmos e "); 
   printf("Prog. II\n"); 
 
+  system("pause")
   return 0;
 }
